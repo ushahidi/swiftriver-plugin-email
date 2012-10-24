@@ -6,7 +6,7 @@
  * @category Plugins
  * @author  Ushahidi Team
  * @copyright (c) Ushahidi Inc 2008-2011 >http://www.ushahidi.com>
- * @license http://www.gnu.org/copyleft/gpl.html GNU General Public License v3 (GPLv3) 
+ * @license http://www.gnu.org/licenses/agpl.html GNU Affero General Public License (AGPL) 
  */
 class Swiftriver_Imap {
 	

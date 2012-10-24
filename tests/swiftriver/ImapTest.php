@@ -6,7 +6,7 @@
  * @category   Tests
  * @author     Ushahidi Team
  * @copyright  (c) 2008-2011 Ushahidi Inc <http://www.ushahidi.com>
- * @license    http://www.gnu.org/copyleft/gpl.html GNU General Public License v3 (GPLv3)
+ * @license    http://www.gnu.org/licenses/agpl.html GNU Affero General Public License (AGPL)
  */
 class Swiftriver_Imap_Test extends Unittest_TestCase {
 	
