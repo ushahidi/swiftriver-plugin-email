@@ -13,7 +13,7 @@ class Swiftriver_Imap_Test extends Unittest_TestCase {
 	public function setUp()
 	{
 		// Get a configured account
-		$account = ORM::factory('email_setting')->where('user_id', '=', 1)->find();
+		$account = ORM::factory('Email_Setting')->where('user_id', '=', 1)->find();
 		
 		// Instantiate IMAP library
 		// Substitute username and password with the real values
